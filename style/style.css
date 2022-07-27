@@ -30,8 +30,11 @@
 
 
 body {
+    background-image: url('../imagens/bugdroid\ fundo.png');
     background-color: var(--cor0);
     font-family: var(--font-padrao);
+    background-size: 150px;
+    background-attachment: fixed;
 }
 
 header {
